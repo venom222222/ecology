@@ -1,0 +1,1573 @@
+.box{
+    width: 1000px;
+    height: 1000px;
+    background: lightgrey;
+    position: relative;
+    margin: 0 auto;
+}
+.trava{
+    width: 1000px;
+    height: 700px;
+    background: lightgreen;
+    position: absolute;
+    top: 300px;
+    left: 0px;  
+}
+.bydunok_one{
+    width: 260px;
+    height: 200px;
+    background: grey;
+    z-index: 2;
+    position: absolute;
+    top: 350px;
+    left: 0px;
+}
+.trukytnuk_one{
+    width: 0px;
+    height: 0px;
+    border: 50px solid transparent;
+    border-bottom: 50px solid grey;
+    border-right: 50px solid grey;
+    position: absolute;
+    top: 252px;
+    left: 0px;
+}
+.trukytnuk_two{
+    width: 0px;
+    height: 0px;
+    border: 50px solid transparent;
+    border-bottom: 50px solid grey;
+    border-right: 50px solid grey;
+    position: absolute;
+    top: 252px;
+    left: 80px;
+}
+.trukytnuk_three{
+    width: 0px;
+    height: 0px;
+    border: 50px solid transparent;
+    border-bottom: 50px solid grey;
+    border-right: 50px solid grey;
+    position: absolute;
+    top: 252px;
+    left: 160px;
+}
+.vikno_one{
+    width: 40px;
+    height: 40px;
+    background: lightgrey;
+    position: absolute;
+    top: 10px;
+    left: 0px;
+}
+.vikno_two{
+    width: 40px;
+    height: 40px;
+    background: lightgrey;
+    position: absolute;
+    top: 10px;
+    left: 60px;
+}
+.vikno_three{
+    width: 60px;
+    height: 40px;
+    background: lightgrey;
+    position: absolute;
+    top: 10px;
+    left: 120px;
+}
+.vikno_four{
+    width: 40px;
+    height: 40px;
+    background: lightgrey;
+    position: absolute;
+    top: 10px;
+    left: 200px;
+}
+.zavod_one{
+    width: 100px;
+    height: 250px;
+    background: grey;
+    z-index: 2;
+    position: absolute;
+    top:305px;
+    left: 350px;
+}
+.zavod_two{
+    width: 100px;
+    height: 340px;
+    background: grey;
+    z-index: 2;
+    position: absolute;
+    top: 215px;
+    left: 430px;
+}
+.wikno_one{
+    width: 20px;
+    height: 320px;
+    background: lightgrey;
+    position: absolute;
+    top: 10px;
+    left: 5px;
+}
+.wikno_two{
+    width: 20px;
+    height: 320px;
+    background: lightgrey;
+    position: absolute;
+    top: 10px;
+    left: 35px;
+}
+.wikno_three{
+    width: 20px;
+    height: 320px;
+    background: lightgrey;
+    position: absolute;
+    top: 10px;
+    left: 65px;
+}
+.zavod_three{
+    width: 120px;
+    height: 270px;
+    background: grey;
+    z-index: 2;
+    position: absolute;
+    top: 285px;
+    left:530px ;
+}
+.wikno_four{
+    width: 40px;
+    height: 40px;
+    background: lightgrey;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.wikno_five{
+    width: 40px;
+    height: 40px;
+    background: lightgrey;
+    position: absolute;
+    top: 10px;
+    left: 60px;
+}
+.wikno_six{
+    width: 40px;
+    height: 40px;
+    background: lightgrey;
+    position: absolute;
+    top: 60px;
+    left: 10px;
+}
+.wikno_seven{
+    width: 40px;
+    height: 40px;
+    background: lightgrey;
+    position: absolute;
+    top: 60px;
+    left: 60px;
+}
+.wikno_eight{
+    width: 40px;
+    height: 40px;
+    background: lightgrey;
+    position: absolute;
+    top: 110px;
+    left: 10px;
+}
+.wikno_nine{
+    width: 40px;
+    height: 40px;
+    background: lightgrey;
+    position: absolute;
+    top: 110px;
+    left: 10px;
+}
+.wikno_ten{
+    width: 40px;
+    height: 40px;
+    background: lightgrey;
+    position: absolute;
+    top: 110px;
+    left: 60px;
+}
+.zavod_four{
+    width: 90px;
+    height: 230px;
+    z-index: 2;
+    background: grey;
+    position: absolute;
+    top: 325px;
+    left: 650px;
+}
+.sklo{
+    width: 80px;
+    height: 30px;
+    background:lightgrey;
+    position: absolute;
+    top: 40px;
+    left:5px;
+}
+.zavod_five{
+    width: 130px;
+    height: 250px;
+    background:grey;
+    z-index: 2;
+    position: absolute;
+    top: 305px;
+    left:740px;
+}
+.wikno_eleven{
+    width: 30px;
+    height: 30px;
+    background:yellow;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.wikno_twelwe{
+    width: 30px;
+    height: 30px;
+    background:lightgrey;
+    position: absolute;
+    top: 10px;
+    left: 50px;
+}
+.wikno_therty{
+    width: 30px;
+    height: 30px;
+    background:lightgrey;
+    position: absolute;
+    top: 10px;
+    left: 90px;
+}
+.wikno_fourty{
+    width: 30px;
+    height: 30px;
+    background:lightgrey;
+    position: absolute;
+    top: 50px;
+    left: 10px;
+}
+.wikno_fivty{
+    width: 30px;
+    height: 30px;
+    background:lightgrey;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+.wikno_sixty{
+    width: 30px;
+    height: 30px;
+    background:yellow;
+    position: absolute;
+    top: 50px;
+    left: 90px;
+}
+.wikno_seventy{
+    width: 30px;
+    height: 30px;
+    background:lightgrey;
+    position: absolute;
+    top: 90px;
+    left: 10px;
+}
+.wikno_eighten{
+    width: 30px;
+    height: 30px;
+    background:yellow;
+    position: absolute;
+    top: 90px;
+    left: 50px;
+}
+.wikno_ninety{
+    width: 30px;
+    height: 30px;
+    background:lightgrey;
+    position: absolute;
+    top: 90px;
+    left: 90px;
+}
+.wikno_twenty{
+    width: 30px;
+    height: 30px;
+    background:lightgrey;
+    position: absolute;
+    top: 130px;
+    left: 10px;
+}
+.wikno_twentyone{
+    width: 30px;
+    height: 30px;
+    background:lightgrey;
+    position: absolute;
+    top: 130px;
+    left: 50px;
+}
+.wikno_twentytwo{
+    width: 30px;
+    height: 30px;
+    background:lightgrey;
+    position: absolute;
+    top: 130px;
+    left: 90px;
+}
+.doroga_one{
+    width: 1000px;
+    height: 50px;
+    background: lightgrey;
+    position: absolute;
+    top: 570px;
+    left: 0px;
+}
+.trotuar_one{
+    width: 1000px;
+    height: 10px;
+    background: lightgrey;
+    position: absolute;
+    top: 550px;
+    left: 0px;
+}
+.trotuar_two{
+    width: 1000px;
+    height: 10px;
+    background: grey;
+    position: absolute;
+    top: 560px;
+    left: 0px;
+}
+.doroga_two{
+    width: 1000px;
+    height: 80px;
+    background: grey;
+    position: absolute;
+    top: 620px;
+    left: 0px;
+}
+.bus{
+    width: 240px;
+    height: 100px;
+    background: blue;
+    border-radius:20% 20% 10% ;
+    position: absolute;
+    top: 570px;
+    left: 0px;
+}
+.bus_wheel_one{
+    width: 40px;
+    height: 40px;
+    background: blue;
+    border-radius: 100%;
+    position: absolute;
+    top: 645px;
+    left: 15px;   
+}
+.bus_wheel_two{
+    width: 40px;
+    height: 40px;
+    background: blue;
+    border-radius: 100%;
+    position: absolute;
+    top: 645px;
+    left: 180px;   
+}
+.bus_tr{
+    width: 0px;
+    height: 0px;
+    border: 30px solid transparent;
+    z-index: 1;
+    border-right: 30px solid blue;
+    position: absolute;
+    top: 590px;
+    left:183px;
+}
+.bus_vikno_one{
+    width: 30px;
+    height: 30px;
+    background: darkblue;
+    position: absolute;
+    top: 20px;
+    left: 0px;
+}
+.bus_vikno_two{
+    width: 30px;
+    height: 30px;
+    background: darkblue;
+    position: absolute;
+    top: 20px;
+    left: 50px;
+}
+.bus_vikno_three{
+    width: 30px;
+    height: 30px;
+    background: darkblue;
+    position: absolute;
+    top: 20px;
+    left: 100px;
+}
+.bus_vikno_four{
+    width: 30px;
+    height: 30px;
+    background: darkblue;
+    position: absolute;
+    top: 20px;
+    left: 150px;
+}
+.bus_vikno_five{
+    width: 20px;
+    height: 40px;
+    background: darkblue;
+    z-index: 2;
+    position: absolute;
+    top: 17px;
+    left: 200px;
+}
+.parkovka{
+    width: 250px;
+    height: 150px;
+    background: lightgrey;
+    position:absolute;
+    top: 700px;
+    left: 1px;
+  }
+  .pered{
+    width: 98px;
+    height: 40px;
+    background: darkblue;
+    position: absolute;
+    top: 70px;
+    left: 19px;
+  }
+  .blick_one{
+    width:10px;
+    height: 40px;
+    background: darkblue;
+    transform: rotate(20deg);
+    z-index: 2;
+    position: absolute;
+    top: 35px;
+    left: 25px;
+  }
+  .blick_two{
+    width:10px;
+    height: 40px;
+    background: darkblue;
+    transform: rotate(-20deg);
+    z-index: 2;
+    position: absolute;
+    top: 35px;
+    left: 100px;
+  }
+  .lobovesklo{
+    width: 80px;
+    height: 30px;
+    background: blue;
+    z-index: 1;
+    position: absolute;
+    top: 45px;
+    left:30px;
+  }
+  .dax_car{
+    width: 80px;
+    height: 15px;
+    background: darkblue;
+    border-radius: 100% 100% 0% 0%;
+    position: absolute;
+    top: 30px;
+    left: 28px;
+  }
+  .dzerkalo_one{
+    width: 15px;
+    height: 15px;
+    background: darkblue;
+    border-radius:100%;
+    position: absolute;
+    top: 63px;
+    left: 10px;
+  }
+  .dzerkalo_two{
+    width: 15px;
+    height: 15px;
+    background: darkblue;
+    border-radius:100%;
+    position: absolute;
+    top: 62px;
+    left: 110px;
+  }
+  .fara_one{
+    width: 15px;
+    height: 15px;
+    background: blue;
+    border-radius: 100%;
+    position: absolute;
+    top: 15px;
+    left: 5px;
+  }
+  .fara_two{
+    width: 15px;
+    height: 15px;
+    background: blue;
+    border-radius: 100%;
+    position: absolute;
+    top: 15px;
+    left: 75px;
+  }
+  .round_one{
+    width: 15px;
+    height: 15px;
+    background: darkblue;
+    border-radius: 0px 0px 100px 100px;
+    position: absolute;
+    top: 110px;
+    left: 19px;
+  }
+  .round_two{
+    width: 15px;
+    height: 15px;
+    background: darkblue;
+    border-radius: 0px 0px 100px 100px;
+    position: absolute;
+    top: 110px;
+    left: 102px;
+  }
+.zapravka{
+    width: 70px;
+    height: 90px;
+    background:#757575;
+    border-radius: 50px 50px 0px 0px;
+    z-index: 1;
+    position: absolute;
+    top: 30px;
+    left: 170px;
+}
+.indukator{
+    width: 40px;
+    height: 20px;
+    background: white;
+    z-index: 2;
+    position: absolute;
+    top: 20px;
+    left: 14px;
+}
+.poloska_one{
+    width: 2px;
+    height:10px ;
+    background: lightgrey;
+    position: absolute;
+    top: 5px;
+    left: 2px;
+}
+.poloska_two{
+    width: 2px;
+    height:10px ;
+    background: lightgrey;
+    position: absolute;
+    top: 5px;
+    left: 6px;
+}
+.poloska_three{
+    width: 2px;
+    height:10px ;
+    background: lightgrey;
+    position: absolute;
+    top: 5px;
+    left: 10px;
+}
+.poloska_four{
+    width: 2px;
+    height:10px ;
+    background: lightgrey;
+    position: absolute;
+    top: 5px;
+    left: 14px;
+}
+.electric{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 30px;
+    left: 10px;
+}
+.stovb{
+    width: 10px;
+    height: 140px;
+    background:#757575;
+    z-index: 3;
+    position: absolute;
+    top: -20px;
+    left: 240px;
+}
+.blick_three{
+    width: 15px;
+    height: 10px;
+    background:#757575;
+    position: absolute;
+    top: -25px;
+    left: 237px;
+}
+.lihtar_one{
+    width: 5px;
+    height: 35px;
+    z-index: 2;
+    background: #757575;
+    transform: rotate(-30deg);
+    position: absolute;
+    top: -50px;
+    left: 230px;
+}
+.lihtar_two{
+    width: 5px;
+    height: 35px;
+    z-index: 2;
+    background: #757575;
+    transform: rotate(30deg);
+    position: absolute;
+    top: -50px;
+    left: 255px;
+}
+.lihtar_three{
+    width: 5px;
+    height: 35px;
+    background: #757575;
+    z-index: 2;
+    position: absolute;
+    top: -50px;
+    left: 243px;
+}
+.svitlo{
+    width: 35px;
+    height: 25px;
+    background: yellow;
+    z-index: 1;
+    border-radius: 0px 0px 100px 100px;
+    position: absolute;
+    top: -50px;
+    left:230px ;
+}
+.dax_lihtar{
+    width: 0px;
+    height: 0px;
+    border: 20px solid transparent;
+    z-index: 2;
+    border-bottom: 20px solid #757575;
+    position: absolute;
+    top: -87px;
+    left: 228px;
+}
+.trotuar_three{
+    width: 1000px;
+    height: 50px;
+    background:lightgrey;
+    z-index: 1;
+    position: absolute;
+    top: 400px;
+    left: 0px;
+}
+.trotuar_four{
+    width: 750px;
+    height: 50px;
+    background:grey;
+    z-index: 1;
+    position: absolute;
+    top: 850px;
+    left: 250px;
+}
+.train{
+    width: 300px;
+    height: 160px;
+    background: blue;
+    z-index: 2;
+    position: absolute;
+    top: 670px;
+    left: 700px; 
+}
+.train_tr{
+    width: 0px;
+    height: 0px;
+    border: 60px solid transparent;
+    z-index: 2;
+    border-right: 60px solid blue;
+    position: absolute;
+    top: 670px;
+    left: 583px;
+}
+.train_nuz_one{
+    width:70px;
+    height: 80px;
+    z-index: 2;
+    background: blue;
+    position: absolute;
+    top: 730px;
+    left: 645px;
+}
+.train_nuz_two{
+    width:45px;
+    height: 15px;
+    z-index: 2;
+    background: blue;
+    position: absolute;
+    top: 800px;
+    left: 635px;
+}
+.train_nuz_three{
+    width:52px;
+    height: 30px;
+    background: blue;
+    z-index: 2;
+    position: absolute;
+    top: 810px;
+    left: 648px;
+}
+.train_koleso_one{
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+    z-index: 2;
+    background-color: blue;
+    position: absolute;
+    top: 825px;
+    left: 710px;
+}
+.train_koleso_two{
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+    z-index: 2;
+    background-color: blue;
+    position: absolute;
+    top: 825px;
+    left: 820px;
+}
+.train_koleso_three{
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+    z-index: 2;
+    background-color: blue;
+    position: absolute;
+    top: 825px;
+    left: 975px;
+}
+.train_nuz_four{
+    width:52px;
+    height: 20px;
+    background: blue;
+    z-index: 2;
+    border-radius: 10%;
+    position: absolute;
+    top: 825px;
+    left: 752px;
+}
+.train_nuz_five{
+    width:70px;
+    height: 20px;
+    z-index: 2;
+    background: blue;
+    border-radius: 10%;
+    position: absolute;
+    top: 825px;
+    left: 870px;
+}
+.train_window_one{
+    width: 20px;
+    height: 40px;
+    z-index: 3;
+    background: darkblue;
+    position: absolute;
+    top: 730px;
+    left: 670px;
+}
+.train_window_two{
+    width: 20px;
+    height: 55px;
+    z-index: 3;
+    background: darkblue;
+    position: absolute;
+    top: 725px;
+    left: 740px;
+}
+.train_window_three{
+    width: 20px;
+    height: 55px;
+    background: darkblue;
+    z-index: 3;
+    position: absolute;
+    top: 725px;
+    left: 775px;
+}
+.train_window_four{
+    width: 90px;
+    height: 25px;
+    z-index: 3;
+    background: darkblue;
+    border-radius: 20%;
+    position: absolute;
+    top: 700px;
+    left: 910px;
+}
+.train_window_five{
+    width: 90px;
+    height: 25px;
+    z-index: 3;
+    background: darkblue;
+    border-radius: 20%;
+    position: absolute;
+    top: 750px;
+    left: 910px;
+}
+.car_two{
+    width:100px;
+    height: 35px;
+    background: darkblue;
+    border-radius: 10%;
+    position: absolute;
+    top: 630px;
+    left: 300px;
+}
+.car_two_palka{
+    width: 7px;
+    height: 40px;
+    background: darkblue;
+    transform: rotate(30deg);
+    z-index: 2;
+    position: absolute;
+    top: 600px;
+    left: 330px;
+}
+.car_two_palka_two{
+    width: 7px;
+    height: 40px;
+    background: darkblue;
+    z-index: 2;
+    transform: rotate(-10deg);
+    position: absolute;
+    top: 600px;
+    left: 390px;
+}
+.car_two_palka_three{
+    width: 50px;
+    height: 7px;
+    background: darkblue;
+    z-index: 2;
+    position: absolute;
+    top: 600px;
+    left: 340px;
+}
+.sklo_two{
+    width: 60px;
+    height: 30px;
+    background-color: blue;
+    z-index: 1;
+    border-radius: 100px 0px 0px 0px;
+    position: absolute;
+    top: 600px;
+    left: 332px;
+}
+.bamper{
+    width: 10px;
+    height: 15px;
+    border-radius: 0px 0px 0px 20px;
+    background: darkblue;
+    position: absolute;
+    top: 650px;
+    left: 294px;
+}
+.car_two_koleso{
+    width: 25px;
+    height: 25px;
+    background: darkblue;
+    border-radius: 100%;
+    position: absolute;
+    top: 650px;
+    left: 302px;
+}
+.car_two_koleso_two{
+    width: 25px;
+    height: 25px;
+    background: darkblue;
+    border-radius: 100%;
+    position: absolute;
+    top: 650px;
+    left: 377px;
+}
+.car_three{
+    width:100px;
+    height: 35px;
+    background: darkblue;
+    border-radius: 10%;
+    position: absolute;
+    top: 635px;
+    left: 500px;
+}
+.car_three_palka{
+    width: 7px;
+    height: 40px;
+    background: darkblue;
+    transform: rotate(-30deg);
+    z-index: 2;
+    position: absolute;
+    top: 605px;
+    left: 560px;
+}
+.car_three_palka_two{
+    width: 7px;
+    height: 40px;
+    background: darkblue;
+    z-index: 2;
+    transform: rotate(10deg);
+    position: absolute;
+    top: 605px;
+    left: 510px;
+}
+.car_three_palka_three{
+    width: 50px;
+    height: 7px;
+    background: darkblue;
+    z-index: 2;
+    position: absolute;
+    top: 605px;
+    left: 510px;
+}
+.sklo_three{
+    width: 50px;
+    height: 30px;
+    background-color: blue;
+    z-index: 1;
+    border-radius: 0px 100px 0px 0px;
+    position: absolute;
+    top: 605px;
+    left: 515px;
+}
+.bamper_two{
+    width: 10px;
+    height: 15px;
+    border-radius: 0px 0px 20px 0px;
+    background: darkblue;
+    position: absolute;
+    top: 653px;
+    left: 600px;
+}
+.car_three_koleso{
+    width: 25px;
+    height: 25px;
+    background: darkblue;
+    border-radius: 100%;
+    position: absolute;
+    top: 655px;
+    left: 502px;
+}
+.car_three_koleso_two{
+    width: 25px;
+    height: 25px;
+    background: darkblue;
+    border-radius: 100%;
+    position: absolute;
+    top: 655px;
+    left: 577px;
+}
+.car_four{
+width: 150px;
+height: 35px;
+background: purple;
+border-radius: 0px 0px 10px 10px;
+position: absolute;
+top: 570px;
+left: 300px;
+}
+.car_four_tr{
+    width: 70px;
+    height: 25px;
+    border-radius: 100px 0px 0px 0px;
+    background: purple;
+    z-index: 3;
+    position: absolute;
+    top: 545px;
+    left: 300px;
+}
+.sklo_four{
+    width: 40px;
+    height: 15px;
+    background: pink;
+    border-radius: 100px 0px 0px 0px;
+    position: absolute;
+    top: 7px;
+    left: 18px;
+}
+.car_four_tr_two{
+    width: 40px;
+    height: 25px;
+    background: purple;
+    border-radius: 0px 100px 0px 0px;
+    z-index: 3;
+    position: absolute;
+    top: 545px;
+    left: 370px;
+}
+.sklo_five{
+    width: 30px;
+    height: 15px;
+    background: pink;
+    border-radius: 0px 100px 0px 0px;
+    position: absolute;
+    top: 7px;
+    left:3px;
+}
+.car_four_kapot{
+    width: 48px;
+    height: 15px;
+    border-radius: 100px 100px 0px 0px;
+    background: purple;
+    transform: rotate(8deg);
+    position: absolute;
+    top: 567px;
+    left: 405px;
+}
+.car_four_koleso{
+    width: 20px;
+    height: 20px;
+    background: purple;
+    border-radius: 100%;
+    position: absolute;
+    top: 595px;
+    left: 315px;
+}
+.car_four_koleso_two{
+    width: 20px;
+    height: 20px;
+    background: purple;
+    border-radius: 100%;
+    position: absolute;
+    top: 595px;
+    left: 410px;
+}
+.car_four_bamper{
+    width: 20px;
+    height: 8px;
+    background: purple;
+    position: absolute;
+    top: 598px;
+    left: 433px;
+}
+.car_five{
+    width: 150px;
+    height: 35px;
+    background: purple;
+    border-radius: 0px 0px 10px 10px;
+    z-index: 4;
+    position: absolute;
+    top: 570px;
+    left: 600px;
+    }
+.car_five_tr{
+    width: 70px;
+    height: 25px;
+    border-radius: 100px 0px 0px 0px;
+    background: purple;
+    z-index: 3;
+    position: absolute;
+    top: 545px;
+    left: 600px;
+    }
+.sklo_six{
+    width: 40px;
+    height: 15px;
+    background: pink;
+    border-radius: 100px 0px 0px 0px;
+    position: absolute;
+    top: 7px;
+    left: 18px;
+    }
+.car_five_tr_two{
+    width: 40px;
+    height: 25px;
+    background: purple;
+    border-radius: 0px 100px 0px 0px;
+    z-index: 4;
+    position: absolute;
+    top: 545px;
+    left: 670px;
+    }
+.sklo_seven{
+    width: 30px;
+    height: 15px;
+    background: pink;
+    border-radius: 0px 100px 0px 0px;
+    position: absolute;
+    top: 7px;
+    left:3px;
+    }
+.car_five_kapot{
+    width: 48px;
+    height: 15px;
+    border-radius: 100px 100px 0px 0px;
+    background: purple;
+    transform: rotate(8deg);
+    position: absolute;
+    top: 567px;
+    left: 705px;
+    }
+.car_five_koleso{
+    width: 20px;
+    height: 20px;
+    background: purple;
+    border-radius: 100%;
+    position: absolute;
+    top: 595px;
+    left: 615px;
+    }
+.car_five_koleso_two{
+    width: 20px;
+    height: 20px;
+    background: purple;
+    border-radius: 100%;
+    position: absolute;
+    top: 595px;
+    left: 710px;
+    }
+.car_five_bamper{
+    width: 20px;
+    height: 8px;
+    background: purple;
+    position: absolute;
+    top: 598px;
+    left: 733px;
+    }
+.svitlofor{
+    width: 30px;
+    height: 65px;
+    background: gray;
+    z-index: 4;
+    border-radius: 10%;
+    position: absolute;
+    top: 465px;
+    left: 300px;
+    }
+.svitlofor_stovb{
+    width: 5px;
+    height: 40px;
+    background: grey;
+    position: absolute;
+    top: 520px;
+    left: 312px;
+    }
+.kolir_one{
+    width: 15px;
+    height: 15px;
+    background: darkgrey;
+    border-radius: 100%;
+    position: absolute;
+    top: 5px;
+    left: 7px;
+}
+.kolir_two{
+    width: 15px;
+    height: 15px;
+    background: yellow;
+    border-radius: 100%;
+    position: absolute;
+    top: 25px;
+    left: 7px;
+}
+.kolir_three{
+    width: 15px;
+    height: 15px;
+    background: white;
+    border-radius: 100%;
+    position: absolute;
+    top: 45px;
+    left: 7px;
+}
+.svitlofor_dax_one{
+    width: 15px;
+    height: 7px;
+    background: grey;
+    border-radius: 100px 0px 0px 0px;
+    z-index: 4;
+    position: absolute;
+    top: 475px;
+    left: 290px;
+}
+.svitlofor_dax_two{
+    width: 15px;
+    height: 7px;
+    background: grey;
+    border-radius: 100px 0px 0px 0px;
+    z-index: 4;
+    position: absolute;
+    top: 495px;
+    left: 290px;
+}
+.svitlofor_dax_three{
+    width: 15px;
+    height: 7px;
+    background: grey;
+    border-radius: 100px 0px 0px 0px;
+    z-index: 4;
+    position: absolute;
+    top: 515px;
+    left: 290px;
+}
+.svitlofor_dax_four{
+    width: 15px;
+    height: 7px;
+    background: grey;
+    border-radius: 0px 100px 0px 0px;
+    z-index: 4;
+    position: absolute;
+    top: 475px;
+    left: 325px;
+}
+.svitlofor_dax_five{
+    width: 15px;
+    height: 7px;
+    background: grey;
+    border-radius: 0px 100px 0px 0px;
+    z-index: 4;
+    position: absolute;
+    top: 495px;
+    left: 325px;
+}
+.svitlofor_dax_six{
+    width: 15px;
+    height: 7px;
+    background: grey;
+    border-radius: 0px 100px 0px 0px;
+    z-index: 4;
+    position: absolute;
+    top: 515px;
+    left: 325px;
+}
+.wifi_one{
+    width: 7px;
+    height: 7px;
+    background: grey;
+    border-radius: 100%;
+    z-index: 5;
+    position: absolute;
+    top: 450px;
+    left: 310px;
+}
+.wifi_two{
+    width: 15px;
+    height: 15px;
+    border-radius: 100px 100px 0px 0px;
+    border-top:5px solid grey;
+    z-index: 5;
+    position: absolute;
+    top: 442px;
+    left: 306.5px;
+}
+.wifi_three{
+    width: 25px;
+    height: 25px;
+    border-radius: 100px 100px 0px 0px;
+    border-top:5px solid grey;
+    z-index: 5;
+    position: absolute;
+    top: 434px;
+    left: 302px;
+}
+.wifi_four{
+    width: 35px;
+    height: 35px;
+    border-radius: 100px 100px 0px 0px;
+    border-top:5px solid grey;
+    z-index: 5;
+    position: absolute;
+    top: 424px;
+    left: 297.5px;
+}
+.wifi_five{
+    width: 7px;
+    height: 7px;
+    background: grey;
+    border-radius: 100%;
+    z-index: 5;
+    position: absolute;
+    top: 200px;
+    left: 480px;
+}
+.wifi_six{
+    width: 15px;
+    height: 15px;
+    border-radius: 100px 100px 0px 0px;
+    border-top:5px solid grey;
+    z-index: 5;
+    position: absolute;
+    top: 192px;
+    left: 476.5px;
+}
+.wifi_seven{
+    width: 25px;
+    height: 25px;
+    border-radius: 100px 100px 0px 0px;
+    border-top:5px solid grey;
+    z-index: 5;
+    position: absolute;
+    top: 185px;
+    left: 472px;
+}
+.wifi_eight{
+    width: 35px;
+    height: 35px;
+    border-radius: 100px 100px 0px 0px;
+    border-top:5px solid grey;
+    z-index: 5;
+    position: absolute;
+    top: 177px;
+    left: 467.5px;
+}
+.batareuka_stovb{
+    width: 5px;
+    height: 30px;
+    background: darkgrey;
+    position: absolute;
+    top: 260px;
+    left: 60px;
+}
+.batareuka{
+    width: 30px;
+    height: 45px;
+    background: gray;
+    position: absolute;
+    top: 225px;
+    left: 48px;
+}
+.electric_two{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 10px;
+    left: 5px;
+}
+.batareuka_kruwka{
+    width: 10px;
+    height: 5px;
+    background: grey;
+    position: absolute;
+    top: 218px;
+    left: 58px;
+}
+.sunpanel{
+    width: 100px;
+    height: 100px;
+    z-index: 1;
+    position: absolute;
+    top: 212px;
+    left: 730px;
+}
+.block_gth{
+    width: 50px;
+    height: 50px;
+    background: lightgrey;
+    z-index: 6;
+    position: absolute;
+    top: 205px;
+    left: 717px;
+}
+.electric_line_one{
+    width: 100px;
+    height: 100px;
+    background: lightgrey;
+    z-index: 1;
+    position: absolute;
+    top: 240px;
+    left: 850px;
+}
+.electric_line_two{
+    width: 100px;
+    height: 100px;
+    background: lightgrey;
+    background-size: 50%;
+    z-index: 1;
+    position: absolute;
+    top: 220px;
+    left: 950px;
+}
+.block_tyn{
+    width:50px;
+    height: 100px;
+    background: white;
+    z-index: 3;
+    position: absolute;
+    top: 220px;
+    left: 1000px;
+}
+.stovbur_one{
+    width: 10px;
+    height: 30px;
+    background: green;
+    z-index: 9;
+    position: absolute;
+    top: 520px;
+    left: 680px;
+}
+.lustia_one{
+    width: 35px;
+    height: 13px;
+    background: green;
+    border-radius: 20%;
+    z-index: 3;
+    position: absolute;
+    top:515px;
+    left: 668.5px;
+}
+.lustia_two{
+    width: 45px;
+    height: 15px;
+    background: green;
+    border-radius: 20%;
+    z-index: 3;
+    position: absolute;
+    top:505px;
+    left: 664px;
+}
+.lustia_three{
+    width: 30px;
+    height: 13px;
+    background: green;
+    border-radius: 20%;
+    z-index: 3;
+    position: absolute;
+    top:495px;
+    left: 671.5px;
+}
+.stovbur_two{
+    width: 10px;
+    height: 30px;
+    background: darkgreen;
+    z-index:9 ;
+    position: absolute;
+    top: 520px;
+    left: 730px;
+}
+.lustia_four{
+    width: 35px;
+    height: 13px;
+    background: darkgreen;
+    border-radius: 20%;
+    z-index: 3;
+    position: absolute;
+    top:515px;
+    left: 718.5px;
+}
+.lustia_five{
+    width: 45px;
+    height: 15px;
+    background: darkgreen;
+    border-radius: 20%;
+    z-index: 3;
+    position: absolute;
+    top:505px;
+    left: 714px;
+}
+.lustia_six{
+    width: 30px;
+    height: 13px;
+    background: darkgreen;
+    border-radius: 20%;
+    z-index: 3;
+    position: absolute;
+    top:495px;
+    left: 721.5px;
+}
+.stovbur_three{
+    width: 10px;
+    height: 30px;
+    background: darkgreen;
+    z-index: 9;
+    position: absolute;
+    top: 520px;
+    left: 995px;
+}
+.lustia_seven{
+    width: 35px;
+    height: 13px;
+    background: darkgreen;
+    border-radius: 20%;
+    z-index: 3;
+    position: absolute;
+    top:515px;
+    left: 981.5px;
+}
+.lustia_eight{
+    width: 45px;
+    height: 15px;
+    background: darkgreen;
+    border-radius: 20%;
+    z-index: 3;
+    position: absolute;
+    top:505px;
+    left: 977px;
+}
+.lustia_nine{
+    width: 30px;
+    height: 13px;
+    background: darkgreen;
+    border-radius: 20%;
+    z-index: 3;
+    position: absolute;
+    top:495px;
+    left: 984.5px;
+}
+.block_grop{
+    width: 25px;
+    height: 55px;
+    background: white;
+    z-index: 6;
+    position: absolute;
+    top: 495px;
+    left: 1000px;
+}
+.an_car_three{
+    animation: Movecarone 5s linear 1;
+}
+@keyframes Movecarone{
+    0%{
+        position:absolute;
+        top: 10px;
+        left: 0px;
+    }
+    50%{
+        position: absolute;
+        top: 10px;
+        left: 300px;
+        z-index: 1;
+    }
+    100%{
+        position: absolute;
+        top: 10px;
+        left:550px;
+        z-index: 1;
+    }
+}
+.an_car_five{
+    animation: Movecartwo 6s linear 1;
+}
+@keyframes Movecartwo{
+    0%{
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+    50%{
+        position: absolute;
+        top: 0px;
+        left: 200px;
+
+    }
+    100%{
+        position: absolute;
+        top: 0px;
+        LEFT: 500px;
+        z-index: 10;
+    }
+}
+.people_one{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 750px;
+    left: 450px;
+}
